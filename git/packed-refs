@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+260178b45c535de43ac9fb35021cb89d7382c92a refs/remotes/origin/master
+c092a6bf295d2d65812361462f7da4ba0545f5a8 refs/tags/1.0
+c092a6bf295d2d65812361462f7da4ba0545f5a8 refs/tags/T-Header
